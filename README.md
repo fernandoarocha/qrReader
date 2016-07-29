@@ -1,0 +1,2 @@
+# qrReader
+read-qrcode
